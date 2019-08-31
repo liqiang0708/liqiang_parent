@@ -1,14 +1,0 @@
-
-bsquid:S4488"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(ÖÇˆ‡þÿÿÿÿ
-]squid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Æøîç
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(‹†’©üÿÿÿÿ
-hsquid:S4488"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(…Ìò³ÿÿÿÿÿ
-_squid:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(½•Ùè
-]squid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ðÄâÿ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(ŒöïÍ
-fsquid:S4488"LReplace "@RequestMapping(method = RequestMethod.PATCH)" with "@PatchMapping"(ÃÊ„×ýÿÿÿÿ
-`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÿÀÉ“
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(½¢¾†
