@@ -41,3 +41,12 @@ build/
 target
 /liqiang_common/target
 /liqiang_common/target
+/liqiang_service/liqiang_service.iml
+/liqiang_service/target
+/liqiang_mapper/liqiang_mapper.iml
+/liqiang_mapper/target
+/liqiang_common/liqiang_common.iml
+/basic_util/basic_util.iml
+/basic_util/target
+/basic_core/basic_core.iml
+/basic_core/target
