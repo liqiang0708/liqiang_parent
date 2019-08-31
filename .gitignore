@@ -34,3 +34,6 @@ build/
 /.idea
 /liqiang_web/liqiang_web.iml
 /.idea
+/liqiang_parent.ipr
+/liqiang_parent.iws
+/liqiang_parent.iml
