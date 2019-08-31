@@ -37,3 +37,6 @@ build/
 /liqiang_parent.ipr
 /liqiang_parent.iws
 /liqiang_parent.iml
+/liqiang_service/target
+target
+/liqiang_common/target
