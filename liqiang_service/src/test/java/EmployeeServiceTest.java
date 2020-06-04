@@ -32,7 +32,7 @@ public class EmployeeServiceTest extends BaseTest {
     @Test
     public void test1() throws Exception{
         Employee  employee = new Employee("找不出来这个错不睡觉");
-        employeeService.add(employee); // 测试创建dev分支时修改2
+        employeeService.add(employee); // 测试创建dev分支时修改2 基于dev创建dev_dev
     }
 
 }
