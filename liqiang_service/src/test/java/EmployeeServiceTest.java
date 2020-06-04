@@ -27,7 +27,7 @@ public class EmployeeServiceTest extends BaseTest {
     @Test
     public void testP() throws Exception{
         List<Employee> list = employeeService.getAll();
-        list.forEach(System.out::println);
+        list.forEach(e-> System.out.println(e));
     }
     @Test
     public void test1() throws Exception{
