@@ -27,7 +27,7 @@ public class EmployeeServiceTest extends BaseTest {
     @Test
     public void testP() throws Exception{
         List<Employee> list = employeeService.getAll();
-        list.forEach(e-> System.out.println(e));
+        list.forEach(e-> System.out.println(e)); // 基于dev分支，创建dev_1， 能否直接合并到master， 应该是只能合并到dev
     }
     @Test
     public void test1() throws Exception{
